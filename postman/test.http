@@ -1,0 +1,5 @@
+### shorten url
+GET http://localhost:8080/v1/shorten?longUrl=https://spring.io/
+
+### redirect url 
+GET http://localhost:8080/v1/2DoSalC6Y
